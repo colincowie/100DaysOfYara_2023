@@ -8,3 +8,9 @@ I will be starting the 100DaysOfYara challenge on Monday Janurary 9th!
 
 ## Results 
 
+| Day | Date       | Topic                           | Link                              |
+|-----|------------|--------------------------------|----------------------------------|
+| 1   | YYYY-MM-DD | Malware Family A               | [Link to Yara rule](url)          |
+| 2   | YYYY-MM-DD | Malware Family B               | [Link to Yara rule](url)          |
+| ... | ...        | ...                            | ...                               |
+| 100 | YYYY-MM-DD | Malware Family Z               | [Link to Yara rule](url)          |
