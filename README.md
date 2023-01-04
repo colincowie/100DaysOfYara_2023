@@ -3,7 +3,7 @@
 
 I will be starting the 100DaysOfYara challenge on Monday Janurary 9th!
 
-## My Template
+- [Template Post](https://github.com/colincowie/100DaysOfYara_2022/blob/main/Template/TEMPLATE.md) (Curtisy of ChatGPT)
 
 
 ## Results 
