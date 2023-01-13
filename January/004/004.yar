@@ -9,7 +9,7 @@ rule sus_onenote_scripting {
     $script_tag ="<script " nocase
   condition:
   (
-    $vbs or $script or $script_tag
+    $vbs or $wscript or $script_tag
   ) and
 	$file_header at 0
 }
