@@ -15,6 +15,6 @@ I will be starting the 100DaysOfYara challenge on Monday Janurary 9th!
 | 3   | 01-11 | Detecting Microsoft OneNote Files               | [003.md](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/003/003.yar)          |
 | 4   | 01-12 | Onenote files with Scripts   | [004.md](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/004/004.yar)   |
 | 5   | 01-16 | Clipboard Stealer Patterns        | [005.md](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/005/005.yar)   |
-
+| 6 | 01-17 | Suspicious LNK files | [006.md](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/006/006.md)
 | ... | ...        | ...                            | ...                               |
 | 100 | MM-DD | Malware Family Z               | [Link](url)          |
