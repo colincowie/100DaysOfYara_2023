@@ -18,5 +18,6 @@ I will be starting the 100DaysOfYara challenge on Monday Janurary 9th!
 | 6 | 01-17 | [Suspicious LNK files](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/006/006.md)
 | 7 | 01-18 | [Detecting Batloader JavaScript  malware](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/007/007.md)
 | 8 | 01-19 | [Suspicious LNK Files](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/008/008.md)
+| 9 | 01-20 | [Zip Archive Testing](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/009/009.md)
 | ... | ...        | ...                            | ...                               |
 | 100 | MM-DD | Malware Family Z               | [Link](url)          |
