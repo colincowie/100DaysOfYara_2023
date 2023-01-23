@@ -20,5 +20,6 @@ I will be starting the 100DaysOfYara challenge on Monday Janurary 9th!
 | 8 | 01-19 | [Suspicious LNK Files](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/008/008.md)
 | 9 | 01-20 | [Zip Archive Testing](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/009/009.md)
 | 10 | 01-21 | [MacOS Browser Hijacker Scripts](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/010/010.md)
+ | 11 | 01-22 | [Browser Extensions Targeted by Vidar InfoStealer](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/011/011.md)
 | ... | ...        | ...                            | ...                               |
 | 100 | MM-DD | Malware Family Z               | [Link](url)          |
