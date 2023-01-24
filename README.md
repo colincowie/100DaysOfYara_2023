@@ -21,5 +21,6 @@ I will be starting the 100DaysOfYara challenge on Monday Janurary 9th!
 | 9 | 01-20 | [Zip Archive Testing](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/009/009.md)
 | 10 | 01-21 | [MacOS Browser Hijacker Scripts](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/010/010.md)
  | 11 | 01-22 | [Browser Extensions Targeted by Vidar InfoStealer](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/011/011.md)
+| 12 | 01-23 |  [Hunting for zip archives containing a compressed exe and language pack](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/012/012.md)
 | ... | ...        | ...                            | ...                               |
 | 100 | MM-DD | Malware Family Z               | [Link](url)          |
