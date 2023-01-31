@@ -27,5 +27,6 @@ I will be starting the 100DaysOfYara challenge on Monday Janurary 9th!
 | 15 | 01-26 |  [Hunting for "cracked" Software InfoStealers](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/015/015.md)
 | 16 | 01-29 | [Hunting for Redline Stealer Archives with Adobe AfterFX](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/016/016.md)
 | 17 | 01-30 | [Gootloader Archive Detection](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/017/017.md)
+| 18 | 01-31 | [OneNote Archive Detection](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/018/018.md)
 | ... | ...        | ...                            | ...                               |
 | 100 | MM-DD | Malware Family Z               | [Link](url)          |
