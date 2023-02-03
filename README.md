@@ -30,6 +30,7 @@ I will be starting the 100DaysOfYara challenge on Monday Janurary 9th!
 | 18 | 01-31 | [OneNote Archive Detection](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/018/018.md)
 | 19 | 02-01 | [.appx File Detection](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/019/019.md)
 | 20 | 02-02 | [IcedID OneNote Archives](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/020/020.md)
+| 21 | 02-03 | [Using the vt Yara Module](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/021/021.md)
 
 | ... | ...        | ...                            | ...                               |
 | 100 | MM-DD | Malware Family Z               | [Link](url)          |
