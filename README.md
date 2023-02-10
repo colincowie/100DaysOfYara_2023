@@ -33,6 +33,7 @@ I will be starting the 100DaysOfYara challenge on Monday Janurary 9th!
 | 21 | 02-03 | [Using the vt Yara Module](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/021/021.md)
 | 22 | 02-06 | [Hunting for OneNote Abuse, matching on wide strings](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/022/022.md)
 | 23 | 02-07 | [Detecting Base64 Strings, Qakbot OneNote Hunting](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/023/023.md)
-24 | 02-08 | [Suspicious OneNote Script Paths](100DaysOfYara_2023/blob/main/January/024/024.md)
+24 | 02-08 | [Suspicious OneNote Script Paths](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/024/024.md)
+25 | 02-09 | [Qakbot Character Conversion Technique](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/025/025.md)
 | ... | ...        | ...                            | ...                               |
 | 100 | MM-DD | Malware Family Z               | [Link](url)          |
