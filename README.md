@@ -36,5 +36,6 @@ I will be starting the 100DaysOfYara challenge on Monday Janurary 9th!
 24 | 02-08 | [Suspicious OneNote Script Paths](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/024/024.md)
 25 | 02-09 | [Qakbot Character Conversion Technique](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/025/025.md)
 26 | 02-10 | [Using the VirusTotal module to detect CobaltStrike behavior ](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/026/026.md)
+27 | 02-13 | [More practice with the VT module - JS Malware](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/027/027.md)
 | ... | ...        | ...                            | ...                               |
 | 100 | MM-DD | Malware Family Z               | [Link](url)          |
