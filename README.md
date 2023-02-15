@@ -38,6 +38,6 @@ I will be starting the 100DaysOfYara challenge on Monday Janurary 9th!
 26 | 02-10 | [Using the VirusTotal module to detect CobaltStrike behavior ](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/026/026.md)
 27 | 02-13 | [More practice with the VT module - JS Malware](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/027/027.md)
 28 | 02-14 | [Using the VT yara module for detection coverage monitoring](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/028/028.md)
-29 | 02-15 [Transfer.sh Script Abuse](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/029/029.md) 
+29 | 02-15 | [Transfer.sh Script Abuse](https://github.com/colincowie/100DaysOfYara_2023/blob/main/January/029/029.md) 
 | ... | ...        | ...                            | ...                               |
 | 100 | MM-DD | Malware Family Z               | [Link](url)          |
